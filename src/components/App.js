@@ -26,7 +26,7 @@ const App = () => {
             <th>ID</th>
             <th>タイトル</th>
             <th>ボディ</th>
-            <th></th>
+            <th>削除</th>
           </tr>
         </thead>
         <tbody>
